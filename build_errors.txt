@@ -1,0 +1,368 @@
+src/components/3d/ProjectionMappingSimulator.tsx(163,10): error TS6133: 'showSettings' is declared but its value is never read.
+src/components/3d/ProjectionMappingSimulator.tsx(163,24): error TS6133: 'setShowSettings' is declared but its value is never read.
+src/components/3d/SimpleHero3D.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/3d/WorkingHero3D.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/3d/WorkingHero3D.tsx(3,46): error TS6133: 'Box' is declared but its value is never read.
+src/components/game/Inventory.tsx(13,22): error TS6133: 'removeFromInventory' is declared but its value is never read.
+src/components/game/Inventory.tsx(13,43): error TS6133: 'hasInInventory' is declared but its value is never read.
+src/components/game/Inventory.tsx(23,9): error TS6133: 'allEquipment' is declared but its value is never read.
+src/components/game/Inventory.tsx(45,25): error TS2367: This comparison appears to be unintentional because the types '"software" | "projector" | "computer" | "controller" | "accessory"' and '"consumable"' have no overlap.
+src/components/game/SkillTree.tsx(104,23): error TS6133: 'upgradeCost' is declared but its value is never read.
+src/components/game/SkillTree.tsx(197,9): error TS6133: 'stats' is declared but its value is never read.
+src/components/game/VJCareerGame3D.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/game/VJCareerGame3D.tsx(3,21): error TS6133: 'Sphere' is declared but its value is never read.
+src/components/game/VJCareerGame3D.tsx(36,20): error TS7053: Element implicitly has an 'any' type because expression of type 'any' can't be used to index type '{ 'Basement Club': string; 'Warehouse Party': string; 'Music Festival': string; 'Red Rocks': string; 'Madison Square Garden': string; }'.
+src/components/game/VJCareerGame3D.tsx(39,23): error TS7053: Element implicitly has an 'any' type because expression of type 'any' can't be used to index type '{ 'Basement Club': string; 'Warehouse Party': string; 'Music Festival': string; 'Red Rocks': string; 'Madison Square Garden': string; }'.
+src/components/game/VJCareerGame3D.tsx(68,27): error TS7006: Parameter '_' implicitly has an 'any' type.
+src/components/game/VJCareerGame3D.tsx(156,24): error TS6133: 'venue' is declared but its value is never read.
+src/components/layout/Footer.tsx(119,28): error TS6133: 'index' is declared but its value is never read.
+src/components/layout/Footer.tsx(146,75): error TS6133: 'index' is declared but its value is never read.
+src/components/portfolio/EquipmentViewer3D.tsx(2,25): error TS6133: 'Text3D' is declared but its value is never read.
+src/components/portfolio/EquipmentViewer3D.tsx(5,17): error TS6133: 'Mesh' is declared but its value is never read.
+src/components/portfolio/FilterBar.tsx(37,10): error TS6133: 'isExpanded' is declared but its value is never read.
+src/components/portfolio/FilterBar.tsx(37,22): error TS6133: 'setIsExpanded' is declared but its value is never read.
+src/components/portfolio/ProjectModal.tsx(176,25): error TS2322: Type '"default" | "ghost"' is not assignable to type '"outline" | "primary" | "secondary" | "ghost" | undefined'.
+src/components/providers/GameProvider.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/providers/GameProvider.tsx(1,44): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ExportPanel.tsx(3,10): error TS1484: 'ProjectionConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ExportPanel.tsx(3,28): error TS1484: 'ProjectorSettings' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ExportPanel.tsx(4,10): error TS1484: 'SurfacePreset' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/MappingTools.tsx(5,3): error TS1484: 'ProjectorSettings' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/MappingTools.tsx(6,3): error TS1484: 'KeystoneCorrection' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/MappingTools.tsx(7,3): error TS1484: 'Vector2' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/MappingTools.tsx(9,10): error TS1484: 'SurfaceGeometry' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/MappingTools.tsx(43,3): error TS6133: 'onSettingsChange' is declared but its value is never read.
+src/components/simulator/MappingTools.tsx(81,11): error TS6133: 'distance' is declared but its value is never read.
+src/components/simulator/ProjectionSimulator.tsx(11,31): error TS1484: 'ProjectionConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ProjectionSimulator.tsx(11,49): error TS1484: 'ProjectorSettings' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ProjectionSimulator.tsx(12,10): error TS1484: 'SurfaceType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ProjectionSimulator.tsx(12,23): error TS1484: 'SurfacePreset' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ProjectionSimulator.tsx(31,7): error TS2740: Type '{ x: number; y: number; z: number; }' is missing the following properties from type 'Vector3': isVector3, set, setScalar, setX, and 71 more.
+src/components/simulator/ProjectionSimulator.tsx(32,7): error TS2740: Type '{ x: number; y: number; z: number; }' is missing the following properties from type 'Vector3': isVector3, set, setScalar, setX, and 71 more.
+src/components/simulator/ProjectionSimulator.tsx(85,9): error TS6133: 'handleExportConfig' is declared but its value is never read.
+src/components/simulator/ProjectorControls.tsx(5,3): error TS1484: 'ProjectorSettings' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ProjectorControls.tsx(6,3): error TS1484: 'ProjectionConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/ProjectorControls.tsx(9,3): error TS6133: 'calculateLensShift' is declared but its value is never read.
+src/components/simulator/ProjectorControls.tsx(52,7): error TS2740: Type '{ x: number; y: number; z: number; isVector3: true; }' is missing the following properties from type 'Vector3': set, setScalar, setX, setY, and 70 more.
+src/components/simulator/ProjectorControls.tsx(62,7): error TS2740: Type '{ x: number; y: number; z: number; isVector3: true; }' is missing the following properties from type 'Vector3': set, setScalar, setX, setY, and 70 more.
+src/components/simulator/ProjectorControls.tsx(99,7): error TS2740: Type '{ x: number; y: number; z: number; }' is missing the following properties from type 'Vector3': isVector3, set, setScalar, setX, and 71 more.
+src/components/simulator/ProjectorControls.tsx(100,7): error TS2740: Type '{ x: number; y: number; z: number; }' is missing the following properties from type 'Vector3': isVector3, set, setScalar, setX, and 71 more.
+src/components/simulator/Surface3D.tsx(3,31): error TS6133: 'VideoTexture' is declared but its value is never read.
+src/components/simulator/Surface3D.tsx(5,24): error TS2307: Cannot find module 'framer-motion-3d' or its corresponding type declarations.
+src/components/simulator/Surface3D.tsx(7,3): error TS1484: 'SurfaceType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/Surface3D.tsx(8,3): error TS1484: 'SurfacePreset' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/Surface3D.tsx(14,10): error TS1484: 'ProjectionConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/simulator/Surface3D.tsx(31,3): error TS6133: 'surface' is declared but its value is never read.
+src/components/simulator/Surface3D.tsx(38,9): error TS6133: 'textureLoader' is declared but its value is never read.
+src/components/simulator/Surface3D.tsx(73,32): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/components/simulator/Surface3D.tsx(79,23): error TS6133: 'materialProperties' is declared but its value is never read.
+src/components/simulator/Surface3D.tsx(193,16): error TS2741: Property 'args' is missing in type '{ attach: string; count: number; array: Float32Array<ArrayBuffer>; itemSize: number; }' but required in type 'Mutable<Overwrite<Partial<Overwrite<BufferAttribute, MathProps<BufferAttribute> & ReactProps<BufferAttribute>>>, Omit<...>>>'.
+src/components/simulator/TutorialSystem.tsx(1,20): error TS6133: 'useEffect' is declared but its value is never read.
+src/game/GameInitializer.ts(35,13): error TS6133: 'playerStore' is declared but its value is never read.
+src/game/engine/AudioManager.ts(184,5): error TS2322: Type 'number' is not assignable to type 'never'.
+src/game/engine/AudioManager.ts(191,5): error TS2322: Type 'number | boolean' is not assignable to type 'number'.
+src/game/engine/AudioManager.ts(233,40): error TS6133: 'key' is declared but its value is never read.
+src/game/engine/GameEngine.ts(130,29): error TS2551: Property 'setPaused' does not exist on type 'GameState'. Did you mean 'isPaused'?
+src/game/engine/GameEngine.ts(134,29): error TS2551: Property 'setPaused' does not exist on type 'GameState'. Did you mean 'isPaused'?
+src/game/engine/SceneManager.ts(4,11): error TS6133: 'gameEngine' is declared but its value is never read.
+src/game/entities/BuildingWall.ts(27,11): error TS2564: Property 'wallMesh' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/BuildingWall.ts(28,11): error TS2564: Property 'projectionPlane' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/BuildingWall.ts(29,11): error TS2564: Property 'surfaceMaterial' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/BuildingWall.ts(30,11): error TS2564: Property 'projectionMaterial' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/BuildingWall.ts(715,34): error TS6133: 'point' is declared but its value is never read.
+src/game/entities/FestivalCrowd.ts(94,11): error TS2564: Property 'crowdGeometry' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalCrowd.ts(373,16): error TS2339: Property 'currentCount' does not exist on type 'never'.
+src/game/entities/FestivalCrowd.ts(511,11): error TS6133: 'prevMood' is declared but its value is never read.
+src/game/entities/FestivalCrowd.ts(564,11): error TS2367: This comparison appears to be unintentional because the types '"neutral"' and '"excited"' have no overlap.
+src/game/entities/FestivalCrowd.ts(564,41): error TS2367: This comparison appears to be unintentional because the types '"neutral"' and '"happy"' have no overlap.
+src/game/entities/FestivalCrowd.ts(567,18): error TS2367: This comparison appears to be unintentional because the types '"neutral"' and '"bored"' have no overlap.
+src/game/entities/FestivalCrowd.ts(567,46): error TS2367: This comparison appears to be unintentional because the types '"neutral"' and '"leaving"' have no overlap.
+src/game/entities/FestivalCrowd.ts(882,41): error TS6133: 'mood' is declared but its value is never read.
+src/game/entities/FestivalCrowd.ts(904,13): error TS6133: 'matrix' is declared but its value is never read.
+src/game/entities/FestivalProjector.ts(64,11): error TS2564: Property 'projectorMesh' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalProjector.ts(65,11): error TS2564: Property 'spotLight' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalProjector.ts(66,11): error TS2564: Property 'projectionCamera' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalProjector.ts(78,11): error TS2564: Property 'performance' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalProjector.ts(91,11): error TS6133: 'animationMixer' is declared but its value is never read.
+src/game/entities/FestivalProjector.ts(233,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/FestivalProjector.ts(250,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/FestivalProjector.ts(256,11): error TS6133: 'ledCount' is declared but its value is never read.
+src/game/entities/FestivalProjector.ts(260,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/FestivalProjector.ts(690,35): error TS6133: 'content' is declared but its value is never read.
+src/game/entities/FestivalProjector.ts(882,36): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/FestivalProjector.ts(1011,35): error TS2339: Property 'parameters' does not exist on type 'BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>'.
+src/game/entities/FestivalProjector.ts(1012,35): error TS2339: Property 'parameters' does not exist on type 'BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>'.
+src/game/entities/FestivalProjector.ts(1013,35): error TS2339: Property 'parameters' does not exist on type 'BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>'.
+src/game/entities/FestivalStage.ts(73,11): error TS2564: Property 'equipment' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalStage.ts(77,11): error TS2564: Property 'metrics' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalStage.ts(80,11): error TS2564: Property 'platform' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalStage.ts(81,11): error TS2564: Property 'backdrop' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/FestivalStage.ts(88,11): error TS6133: 'lightAnimationMixer' is declared but its value is never read.
+src/game/entities/FestivalStage.ts(90,11): error TS6133: 'audioAnalyzer' is declared but its value is never read.
+src/game/entities/FestivalStage.ts(93,11): error TS6133: 'setupProgress' is declared but its value is never read.
+src/game/entities/FestivalStage.ts(252,9): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/FestivalStage.ts(258,31): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(283,32): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(284,32): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(311,32): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(312,32): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(339,32): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(438,28): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/entities/FestivalStage.ts(578,19): error TS2339: Property 'installed' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(578,53): error TS2339: Property 'maxCapacity' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(579,17): error TS2339: Property 'installed' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(580,17): error TS2339: Property 'working' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(591,19): error TS2339: Property 'installed' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(592,17): error TS2339: Property 'installed' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(593,17): error TS2339: Property 'working' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(593,46): error TS2339: Property 'working' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(593,65): error TS2339: Property 'installed' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(608,40): error TS2339: Property 'installed' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(613,29): error TS2339: Property 'working' does not exist on type '{ installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { installed: number; working: number; maxCapacity: number; } | { available: number; used: number; efficiency: number; }'.
+src/game/entities/FestivalStage.ts(689,49): error TS6133: 'index' is declared but its value is never read.
+src/game/entities/FestivalStage.ts(693,18): error TS2339: Property 'emissive' does not exist on type 'MeshBasicMaterial'.
+src/game/entities/FestivalStage.ts(829,18): error TS2339: Property 'emissive' does not exist on type 'MeshBasicMaterial'.
+src/game/entities/FestivalStage.ts(930,31): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/FestivalStage.ts(939,20): error TS2339: Property 'emissive' does not exist on type 'MeshBasicMaterial'.
+src/game/entities/KitchenCabinet.ts(146,5): error TS6133: 'blendMode' is declared but its value is never read.
+src/game/entities/KitchenCabinet.ts(146,22): error TS2724: '"/home/server/lightbrush-website/node_modules/@types/three/build/three.module"' has no exported member named 'BlendingType'. Did you mean 'Blending'?
+src/game/entities/KitchenCabinet.ts(151,31): error TS6133: 'index' is declared but its value is never read.
+src/game/entities/LEDWall.ts(45,11): error TS2564: Property 'mesh' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(46,11): error TS2564: Property 'material' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(47,11): error TS2564: Property 'canvas' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(48,11): error TS2564: Property 'context' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(49,11): error TS2564: Property 'renderTexture' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(54,11): error TS2564: Property 'layerCompositor' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(55,11): error TS2564: Property 'compositorCanvas' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(61,11): error TS2564: Property 'pixelData' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/LEDWall.ts(65,11): error TS6133: 'lastBeatTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(69,11): error TS6133: 'spectacularMode' is declared but its value is never read.
+src/game/entities/LEDWall.ts(70,11): error TS6133: 'spectacularEffects' is declared but its value is never read.
+src/game/entities/LEDWall.ts(412,52): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(432,56): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(457,55): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(463,11): error TS6133: 'sortThreshold' is declared but its value is never read.
+src/game/entities/LEDWall.ts(464,11): error TS6133: 'sortLength' is declared but its value is never read.
+src/game/entities/LEDWall.ts(497,54): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(527,56): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(557,61): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/LEDWall.ts(605,7): error TS2322: Type 'string' is not assignable to type 'GlobalCompositeOperation'.
+src/game/entities/ProfessionalRig.ts(69,11): error TS2564: Property 'mixingConsole' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/ProfessionalRig.ts(90,11): error TS6133: 'humidity' is declared but its value is never read.
+src/game/entities/ProfessionalRig.ts(306,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/ProfessionalRig.ts(362,37): error TS6133: 'index' is declared but its value is never read.
+src/game/entities/ProfessionalRig.ts(464,9): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/ProfessionalRig.ts(663,47): error TS2339: Property 'material' does not exist on type 'Object3D<Object3DEventMap>'.
+src/game/entities/ProfessionalRig.ts(701,29): error TS2339: Property 'color' does not exist on type 'Material | Material[]'.
+src/game/entities/ProfessionalRig.ts(723,29): error TS2339: Property 'color' does not exist on type 'Material | Material[]'.
+src/game/entities/ProfessionalRig.ts(797,24): error TS2339: Property 'emissive' does not exist on type 'MeshBasicMaterial'.
+src/game/entities/ProfessionalRig.ts(808,31): error TS2339: Property 'emissive' does not exist on type 'Material | Material[]'.
+src/game/entities/Projector.ts(15,11): error TS2564: Property 'projectorMesh' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/Projector.ts(16,11): error TS2564: Property 'spotLight' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/Projector.ts(18,11): error TS2564: Property 'projectionCamera' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/Projector.ts(21,11): error TS6133: 'dragOffset' is declared but its value is never read.
+src/game/entities/RedRocksCrowd.ts(58,11): error TS6133: 'beatResponseRate' is declared but its value is never read.
+src/game/entities/RedRocksCrowd.ts(312,15): error TS6133: 'posInCluster' is declared but its value is never read.
+src/game/entities/RedRocksCrowd.ts(573,34): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/entities/RedRocksCrowd.ts(747,38): error TS6133: 'index' is declared but its value is never read.
+src/game/entities/SecurityGuard.ts(26,11): error TS2564: Property 'guardMesh' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/SecurityGuard.ts(27,11): error TS2564: Property 'flashlightGroup' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/SecurityGuard.ts(28,11): error TS2564: Property 'flashlight' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/SecurityGuard.ts(29,11): error TS2564: Property 'visionCone' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/SecurityGuard.ts(30,11): error TS2564: Property 'visionConeMaterial' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/SecurityGuard.ts(51,11): error TS6133: 'detectionRadius' is declared but its value is never read.
+src/game/entities/SecurityGuard.ts(52,11): error TS6133: 'flashlightOn' is declared but its value is never read.
+src/game/entities/UrbanProjector.ts(28,11): error TS2564: Property 'projectorMesh' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/UrbanProjector.ts(29,11): error TS2564: Property 'projectorLight' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/UrbanProjector.ts(30,11): error TS2564: Property 'projectionCamera' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/UrbanProjector.ts(37,11): error TS6133: 'isSetupComplete' is declared but its value is never read.
+src/game/entities/UrbanProjector.ts(51,11): error TS2564: Property 'deploymentAnimation' has no initializer and is not definitely assigned in the constructor.
+src/game/entities/UrbanProjector.ts(58,11): error TS6133: 'setupAnimationSpeed' is declared but its value is never read.
+src/game/entities/UrbanProjector.ts(192,9): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/entities/UrbanProjector.ts(550,11): error TS6133: 'ctx' is declared but its value is never read.
+src/game/entities/UrbanProjector.ts(560,31): error TS6133: 'texture' is declared but its value is never read.
+src/game/entities/UrbanProjector.ts(705,23): error TS2339: Property 'emissiveIntensity' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(710,26): error TS2339: Property 'emissive' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(711,26): error TS2339: Property 'emissiveIntensity' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(713,26): error TS2339: Property 'emissive' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(714,26): error TS2339: Property 'emissiveIntensity' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(716,26): error TS2339: Property 'emissiveIntensity' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(722,27): error TS2339: Property 'emissive' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(724,27): error TS2339: Property 'emissive' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(726,27): error TS2339: Property 'emissive' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(728,25): error TS2339: Property 'emissiveIntensity' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(733,25): error TS2339: Property 'emissiveIntensity' does not exist on type 'Material | Material[]'.
+src/game/entities/UrbanProjector.ts(753,38): error TS2339: Property 'material' does not exist on type 'Object3D<Object3DEventMap>'.
+src/game/entities/UrbanProjector.ts(756,20): error TS2339: Property 'material' does not exist on type 'Object3D<Object3DEventMap>'.
+src/game/entities/UrbanProjector.ts(757,20): error TS2339: Property 'material' does not exist on type 'Object3D<Object3DEventMap>'.
+src/game/levels/HomeLevel.ts(1,17): error TS1484: 'LevelConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/HomeLevel.ts(1,30): error TS1484: 'GameObject' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/HomeLevel.ts(1,42): error TS1484: 'Trigger' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/HomeLevel.ts(1,42): error TS6133: 'Trigger' is declared but its value is never read.
+src/game/levels/HomeLevel.ts(498,30): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/levels/HomeLevel.ts(503,32): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/levels/Level.ts(2,1): error TS6133: 'AudioManager' is declared but its value is never read.
+src/game/levels/Level.ts(328,43): error TS6133: 'id' is declared but its value is never read.
+src/game/levels/Level.ts(442,22): error TS6133: 'ctx' is declared but its value is never read.
+src/game/levels/Level.ts(511,29): error TS6133: 'trigger' is declared but its value is never read.
+src/game/levels/Level.ts(518,31): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(3,10): error TS6133: 'Text' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(51,22): error TS6133: 'setIsDragging' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(69,5): error TS6133: 'updateProjectorPosition' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(70,5): error TS6133: 'updateProjectorRotation' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(74,5): error TS6133: 'setLevelProgress' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(208,36): error TS6133: 'event' is declared but its value is never read.
+src/game/levels/Level1Kitchen.tsx(226,38): error TS2769: No overload matches this call.
+src/game/levels/Level1Kitchen.tsx(230,43): error TS2769: No overload matches this call.
+src/game/levels/Level1Kitchen.tsx(235,13): error TS6133: 'state' is declared but its value is never read.
+src/game/levels/Level2Integration.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/game/levels/Level2Integration.tsx(20,14): error TS2339: Property 'physicallyCorrectLights' does not exist on type 'WebGLRenderer'.
+src/game/levels/Level2Integration.tsx(93,52): error TS6133: 'index' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(2,30): error TS6133: 'extend' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(3,10): error TS6133: 'Text' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(27,7): error TS6133: 'LEVEL2_ACHIEVEMENTS' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(41,10): error TS6133: 'buildingWalls' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(52,10): error TS6133: 'currentObjective' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(52,28): error TS6133: 'setCurrentObjective' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(53,10): error TS6133: 'socialPosts' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(60,31): error TS6133: 'setProjectorBrightness' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(61,22): error TS6133: 'setSetupSpeed' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(62,10): error TS6133: 'stealthBonus' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(62,24): error TS6133: 'setStealthBonus' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(71,9): error TS6133: 'raycaster' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(81,5): error TS6133: 'achievements' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(141,7): error TS2322: Type 'string' is not assignable to type 'SurfaceType'.
+src/game/levels/Level2ParkingLot.tsx(240,34): error TS2339: Property 'distanceTo' does not exist on type 'PlayerPosition'.
+src/game/levels/Level2ParkingLot.tsx(249,41): error TS2339: Property 'distanceTo' does not exist on type 'PlayerPosition'.
+src/game/levels/Level2ParkingLot.tsx(253,32): error TS2345: Argument of type 'PlayerPosition' is not assignable to parameter of type 'Vector3'.
+src/game/levels/Level2ParkingLot.tsx(381,13): error TS6133: 'state' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(433,36): error TS6133: 'event' is declared but its value is never read.
+src/game/levels/Level2ParkingLot.tsx(444,38): error TS2769: No overload matches this call.
+src/game/levels/Level2ParkingLot.tsx(448,43): error TS2769: No overload matches this call.
+src/game/levels/Level3Festival.tsx(3,10): error TS6133: 'Text' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(6,25): error TS1484: 'WeatherState' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(6,39): error TS1484: 'TimeOfDay' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(7,25): error TS1484: 'StageConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(7,25): error TS6133: 'StageConfig' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(7,38): error TS1484: 'PerformanceSlot' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(8,25): error TS1484: 'CrowdMetrics' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(8,25): error TS6133: 'CrowdMetrics' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(9,29): error TS1484: 'ProjectorConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(9,46): error TS1484: 'ProjectionContent' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level3Festival.tsx(151,10): error TS6133: 'selectedStage' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(151,25): error TS6133: 'setSelectedStage' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(156,10): error TS6133: 'showCollaboration' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(156,29): error TS6133: 'setShowCollaboration' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(157,10): error TS6133: 'showMixingInterface' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(157,31): error TS6133: 'setShowMixingInterface' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(164,10): error TS6133: 'isDragging' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(164,22): error TS6133: 'setIsDragging' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(165,10): error TS6133: 'selectedProjector' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(165,29): error TS6133: 'setSelectedProjector' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(176,5): error TS6133: 'addExperience' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(177,5): error TS2339: Property 'unlockAchievement' does not exist on type 'GameState'.
+src/game/levels/Level3Festival.tsx(178,5): error TS6133: 'showDialog' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(179,5): error TS6133: 'hideDialog' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(223,39): error TS2345: Argument of type 'FestivalStageConfig' is not assignable to parameter of type 'StageConfig'.
+src/game/levels/Level3Festival.tsx(433,21): error TS2339: Property 'applyWeatherEffects' does not exist on type 'FestivalProjector'.
+src/game/levels/Level3Festival.tsx(453,9): error TS6133: 'purchaseProjector' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(521,9): error TS6133: 'hireCrew' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(545,22): error TS2339: Property 'expenses' does not exist on type 'ResourceState'.
+src/game/levels/Level3Festival.tsx(635,13): error TS6133: 'intersectedObject' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(640,36): error TS6133: 'event' is declared but its value is never read.
+src/game/levels/Level3Festival.tsx(656,38): error TS2769: No overload matches this call.
+src/game/levels/Level3Festival.tsx(660,43): error TS2769: No overload matches this call.
+src/game/levels/Level3Festival.tsx(665,13): error TS6133: 'state' is declared but its value is never read.
+src/game/levels/Level4RedRocks.tsx(3,17): error TS1484: 'LevelConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/levels/Level4RedRocks.tsx(9,1): error TS6133: 'AudioManager' is declared but its value is never read.
+src/game/levels/Level4RedRocks.tsx(54,11): error TS2416: Property 'camera' in type 'RedRocksLevel' is not assignable to the same property in base type 'Level'.
+src/game/levels/Level4RedRocks.tsx(632,31): error TS2339: Property 'getKeys' does not exist on type 'InputManager'.
+src/game/levels/Level4RedRocks.tsx(633,11): error TS6133: 'actions' is declared but its value is never read.
+src/game/levels/Level4RedRocks.tsx(736,33): error TS2339: Property 'showCustomModal' does not exist on type 'GameState'.
+src/game/levels/scenes/FestivalScene.ts(35,11): error TS2564: Property 'ground' has no initializer and is not definitely assigned in the constructor.
+src/game/levels/scenes/FestivalScene.ts(36,11): error TS2564: Property 'skybox' has no initializer and is not definitely assigned in the constructor.
+src/game/levels/scenes/FestivalScene.ts(111,11): error TS2564: Property 'ambientLight' has no initializer and is not definitely assigned in the constructor.
+src/game/levels/scenes/FestivalScene.ts(112,11): error TS2564: Property 'directionalLight' has no initializer and is not definitely assigned in the constructor.
+src/game/levels/scenes/FestivalScene.ts(128,10): error TS2554: Expected 2 arguments, but got 0.
+src/game/levels/scenes/FestivalScene.ts(371,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/levels/scenes/FestivalScene.ts(426,31): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/FestivalScene.ts(427,31): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/FestivalScene.ts(500,26): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/FestivalScene.ts(518,24): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/FestivalScene.ts(540,28): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/FestivalScene.ts(584,31): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/FestivalScene.ts(603,27): error TS2556: A spread argument must either have a tuple type or be passed to a rest parameter.
+src/game/levels/scenes/ParkingLotScene.ts(58,10): error TS2339: Property 'createUrbanInfrastructure' does not exist on type 'ParkingLotScene'.
+src/game/levels/scenes/ParkingLotScene.ts(309,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/levels/scenes/ParkingLotScene.ts(324,7): error TS2353: Object literal may only specify known properties, and 'emissive' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshBasicMaterialProperties>>'.
+src/game/levels/scenes/ParkingLotScene.ts(335,25): error TS2339: Property 'emissive' does not exist on type 'MeshBasicMaterial'.
+src/game/levels/scenes/ParkingLotScene.ts(367,11): error TS2339: Property 'name' does not exist on type 'UrbanProp'.
+src/game/levels/scenes/ParkingLotScene.ts(432,7): error TS2740: Type 'Group<Object3DEventMap>' is missing the following properties from type 'Mesh<BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>, Material | Material[], Object3DEventMap>': isMesh, geometry, material, count, and 2 more.
+src/game/levels/scenes/ParkingLotScene.ts(452,16): error TS2339: Property 'name' does not exist on type 'UrbanProp'.
+src/game/levels/scenes/ParkingLotScene.ts(505,7): error TS2740: Type 'Group<Object3DEventMap>' is missing the following properties from type 'Mesh<BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>, Material | Material[], Object3DEventMap>': isMesh, geometry, material, count, and 2 more.
+src/game/levels/scenes/ParkingLotScene.ts(671,17): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/levels/scenes/ParkingLotScene.ts(680,20): error TS2339: Property 'emissive' does not exist on type 'MeshBasicMaterial'.
+src/game/levels/scenes/ParkingLotScene.ts(681,18): error TS2339: Property 'emissiveIntensity' does not exist on type 'MeshBasicMaterial'.
+src/game/levels/scenes/RedRocksScene.ts(38,11): error TS6133: 'beatTime' is declared but its value is never read.
+src/game/levels/scenes/RedRocksScene.ts(39,11): error TS6133: 'sunsetProgression' is declared but its value is never read.
+src/game/levels/scenes/RedRocksScene.ts(114,7): error TS2353: Object literal may only specify known properties, and 'roughness' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshLambertMaterialProperties>>'.
+src/game/levels/scenes/RedRocksScene.ts(138,7): error TS2353: Object literal may only specify known properties, and 'metalness' does not exist in type 'Partial<MapColorPropertiesToColorRepresentations<MeshPhongMaterialProperties>>'.
+src/game/levels/scenes/RedRocksScene.ts(389,42): error TS2345: Argument of type 'Group<Object3DEventMap>' is not assignable to parameter of type 'Mesh<BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>, Material | Material[], Object3DEventMap>'.
+src/game/levels/scenes/RedRocksScene.ts(434,36): error TS2345: Argument of type 'Group<Object3DEventMap>' is not assignable to parameter of type 'Mesh<BufferGeometry<NormalBufferAttributes, BufferGeometryEventMap>, Material | Material[], Object3DEventMap>'.
+src/game/levels/scenes/RedRocksScene.ts(718,34): error TS6133: 'index' is declared but its value is never read.
+src/game/levels/scenes/RedRocksScene.ts(790,33): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/levels/scenes/RedRocksScene.ts(804,28): error TS6133: 'deltaTime' is declared but its value is never read.
+src/game/levels/scenes/RedRocksScene.ts(807,25): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(831,35): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(901,35): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(902,35): error TS2339: Property 'size' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(910,22): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(914,24): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(921,25): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/levels/scenes/RedRocksScene.ts(925,27): error TS2339: Property 'opacity' does not exist on type 'Material | Material[]'.
+src/game/systems/AchievementSystem.ts(1,18): error TS1484: 'PlayerSkills' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/systems/EquipmentSystem.ts(1,18): error TS1484: 'PlayerSkills' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/systems/EquipmentSystem.ts(435,11): error TS6133: 'playerStats' is declared but its value is never read.
+src/game/systems/EquipmentSystem.ts(556,41): error TS6133: 'slot' is declared but its value is never read.
+src/game/systems/SaveLoadSystem.ts(54,27): error TS6133: 'SETTINGS_KEY' is declared but its value is never read.
+src/game/systems/SaveLoadSystem.ts(171,31): error TS2345: Argument of type 'Promise<string>' is not assignable to parameter of type 'string'.
+src/game/systems/SkillSystem.ts(1,18): error TS1484: 'PlayerSkills' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/game/utils/PatternGenerator.ts(227,57): error TS6133: 'size' is declared but its value is never read.
+src/game/utils/PatternGenerator.ts(291,86): error TS6133: 'size' is declared but its value is never read.
+src/game/utils/PatternGenerator.ts(330,90): error TS6133: 'size' is declared but its value is never read.
+src/game/utils/PatternGenerator.ts(476,89): error TS6133: 'size' is declared but its value is never read.
+src/game/utils/PatternGenerator.ts(551,91): error TS6133: 'size' is declared but its value is never read.
+src/hooks/useGameEngine.ts(12,26): error TS2339: Property 'setIsInitialized' does not exist on type 'GameState'.
+src/hooks/useGameEngine.ts(23,27): error TS2339: Property 'cleanup' does not exist on type 'GameEngine'.
+src/pages/about/AboutPage.tsx(105,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(121,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(167,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(173,17): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(199,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(205,17): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(233,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(239,17): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/about/AboutPage.tsx(260,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/game/GamePage.tsx(1,10): error TS6133: 'Suspense' is declared but its value is never read.
+src/pages/game/GamePage.tsx(5,1): error TS6133: 'GameEnvironment3D' is declared but its value is never read.
+src/pages/game/GamePage.tsx(7,7): error TS6133: 'LoadingFallback' is declared but its value is never read.
+src/pages/game/GamePage.tsx(21,9): error TS6133: 'handleGameInteraction' is declared but its value is never read.
+src/pages/home/HomePage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/home/HomePage.tsx(3,42): error TS6133: 'useScroll' is declared but its value is never read.
+src/pages/home/HomePage.tsx(7,7): error TS6133: 'SimpleHero3D' is declared but its value is never read.
+src/pages/portfolio/PortfolioPage.tsx(2,20): error TS6133: 'Suspense' is declared but its value is never read.
+src/pages/portfolio/PortfolioPage.tsx(4,1): error TS6133: 'ProjectShowcase3D' is declared but its value is never read.
+src/pages/portfolio/PortfolioPage.tsx(131,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/portfolio/PortfolioPage.tsx(165,21): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/portfolio/PortfolioPage.tsx(192,15): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/portfolio/PortfolioPage.tsx(279,11): error TS2322: Type '{ hidden: { y: number; opacity: number; }; visible: { y: number; opacity: number; transition: { duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+src/pages/simulator/SimulatorPage.tsx(2,1): error TS6133: 'Suspense' is declared but its value is never read.
+src/pages/simulator/SimulatorPage.tsx(3,1): error TS6133: 'ProjectionMappingSimulator' is declared but its value is never read.
+src/services/GameService.ts(58,18): error TS2339: Property 'initialize' does not exist on type 'GameEngine'.
+src/services/GameService.ts(61,31): error TS2554: Expected 0 arguments, but got 1.
+src/services/GameService.ts(61,38): error TS2339: Property 'getScene' does not exist on type 'GameEngine'.
+src/services/GameService.ts(92,35): error TS2339: Property 'cleanup' does not exist on type 'GameEngine'.
+src/services/GameService.ts(142,54): error TS2345: Argument of type 'number' is not assignable to parameter of type 'Player'.
+src/services/GameService.ts(153,45): error TS2554: Expected 2 arguments, but got 1.
+src/services/GameService.ts(182,43): error TS2339: Property 'unlockAchievement' does not exist on type 'AchievementSystem'.
+src/utils/logger.ts(145,23): error TS7053: Element implicitly has an 'any' type because expression of type 'LogLevel' can't be used to index type '{ readonly DEBUG: 0; readonly INFO: 1; readonly WARN: 2; readonly ERROR: 3; readonly CRITICAL: 4; }'.

